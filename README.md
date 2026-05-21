@@ -1,5 +1,6 @@
-# banco-de-dados-nosql
 Repositório para alocar o projeto da disciplina de Banco de Dados NoSQL. 
+
+# Logshield
 
 LogShield: Auditoria Imutável de Acessos a Dados Sensíveis (Zero Trust)
 Projeto acadêmico desenvolvido para a disciplina de Banco de Dados NoSQL
